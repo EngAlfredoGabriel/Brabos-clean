@@ -36,7 +36,7 @@ Ideal para negócios que desejam presença digital profissional e aumento de dem
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/brabos-clean.git
+git clone https://github.com/EngAlfredoGabriel/brabos-clean.git
 ```
 
 Acesse a pasta do projeto:
