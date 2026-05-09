@@ -86,7 +86,7 @@ Para mais informações ou contratação de serviços:
 
 # Autor
 
-Desenvolvido por você — com visão de crescimento e foco em resultado.
+Desenvolvido pelo Alfredo Gabriel — com visão de crescimento e foco em resultado.
 
 ---
 
