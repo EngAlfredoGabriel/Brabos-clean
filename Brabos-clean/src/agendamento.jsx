@@ -10,17 +10,17 @@ function Agendamento() {
     const horario = e.target.horario.value;
     const endereco = e.target.endereco.value;
 const mensagem = 
-`Olá! 👋
-Aqui é a equipe da *Brabos Clean* 🧼
+`Olá! 
+Aqui é a equipe da *Brabos Clean* 
 
-📌 *Resumo do pedido:*
+ *Resumo do pedido:*
 • Nome: ${nome}
 • Serviço: ${servico}
 • Data: ${data}
 • Horário: ${horario}
 • Local: ${endereco}
 
-Sua solicitacao foi recebida com sucesso.✅
+Sua solicitacao foi recebida com sucesso.
 Em instantes nossa equipe irá confirmar seu atendimento.`;
 
     const url = `https://wa.me/5561992521659?text=${encodeURIComponent(mensagem)}`;
